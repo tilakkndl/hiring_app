@@ -1,0 +1,87 @@
+[
+  {
+    "role": "backend developer",
+    "questions": [
+      {
+        "id": 1,
+        "qsn": "Which  doesn't come under MERN stack?",
+        "options": ["reactjs", "express", "mongodb", "vuejs"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      },
+      {
+        "id": 2,
+        "qsn": "Which is technology on the top of nodejs?",
+        "options": ["reactjs", "vuejs", "angularjs", "nodejs"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      },
+      {
+        "id": 3,
+        "qsn": "Is there any difference between '==' and '===' in javascript ?",
+        "options": ["not defined", "maybe", "No", "Yes"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      },
+      {
+        "id": 4,
+        "qsn": "Which one doesn't come under backend development?",
+        "options": [
+          "Data Stroring",
+          "Authentication",
+          "API development",
+          "styling"
+        ],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      },
+      {
+        "id": 5,
+        "qsn": "Which is not used for writing backend logic?",
+        "options": ["lavarel", "django", "nodejs", "CSS"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      }
+    ]
+  },
+  {
+    "role": "frontend developer",
+    "questions": [
+      {
+        "id": 1,
+        "qsn": "Which is not frontend technology?",
+        "options": ["reactjs", "vuejs", "angularjs", "nodejs"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      },
+      {
+        "id": 2,
+        "qsn": "Which is css framwork?",
+        "options": ["reactjs", "vuejs", "angularjs", "tailwind css"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      },
+      {
+        "id": 3,
+        "qsn": "Which is not  mouse event ?",
+        "options": ["click", "mousedown", "mouseup", "mousedancing"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      },
+      {
+        "id": 4,
+        "qsn": "Which is not javascript datatype?",
+        "options": ["Number", "String", "Object", "multiplication"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      },
+      {
+        "id": 5,
+        "qsn": "Which operator is used to find reminder in javascript?",
+        "options": ["*", "-", "+", "%"],
+        "correctChoice": 3,
+        "choosenChoice": 0
+      }
+    ]
+  }
+]
